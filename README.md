@@ -1,4 +1,4 @@
-# reo-output
+# Reo-Satooooo
 <h1 align="center">Hi 👋, I'm Reo Sato</h1>
 <h3 align="center">I'm Reo Sato a students majoring in computer science from Hokkaido Japan</h3>
 
