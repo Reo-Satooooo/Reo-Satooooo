@@ -10,7 +10,3 @@
 <p align="left">
 <a href="https://twitter.com/@sugarnote123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@sugarnote123" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reo-satooooo&show_icons=true&locale=en&layout=compact" alt="reo-satooooo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reo-satooooo&show_icons=true&locale=en" alt="reo-satooooo" /></p>
