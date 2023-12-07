@@ -13,10 +13,9 @@
 
 <h2 align="left">⛄️Status</h2>
 
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Reo-Satooooo&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Reo-Satooooo/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Reo-Satooooo&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Reo-Satooooo/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reo-Satooooo&layout=compact&theme=tokyonight)](https://github.com/Reo-Satooooo/)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reo-Satooooo&layout=compact&theme=tokyonight)](https://github.com/Reo-Satooooo/)
+
+
 
 
