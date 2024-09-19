@@ -5,9 +5,10 @@
 
 <h2 align="left">🌳Works</h2>
 <ul>
-  <li><a href=https://github.com/Reo-Satooooo/cist-bus-timetable-searcher>公立千歳科学技術大学シャトルバス時刻表</a></li>
-  <li><a href=https://reo-satooooo.github.io/attendance-card/>公立千歳科学技術大学出席カードメーカー</a></li>
-  <li><a href=https://covid19quiz.com/>Covid19対策クイズ</a></li>
+  <li><a href=https://github.com/Reo-Satooooo/cist-bus-timetable-searcher>公立千歳科学技術大学シャトルバス時刻表</a>（Githubリポジトリ）</li>
+  <li><a href=https://reo-satooooo.github.io/attendance-card/>公立千歳科学技術大学出席カードメーカー</a>（公開URL/Github Pages）</li>
+  <li><a href=https://covid19quiz.com/>Covid19対策クイズ</a>（公開URL/独自ドメイン）</li>
+  <li><a href=https://unityroom.com/games/kanjitumi>漢字つみ</a>（UnityRoom URL）</li>
   <li>And more...</li>
 </ul>
 
